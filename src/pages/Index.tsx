@@ -36,7 +36,7 @@ const Index = () => {
               <span className="relative inline-block transform hover:translate-z-8 transition-transform">
                 <span className="absolute -inset-1 bg-gradient-to-r from-primary/20 to-secondary/20 blur-lg"></span>
                 <span className="relative bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary transform hover:scale-105 transition-transform">
-                  DesignFlow
+                  The Dev Guy
                 </span>
               </span>
             </h1>
@@ -44,17 +44,17 @@ const Index = () => {
             {/* 3D Animated Subtitle */}
             <p className="text-xl md:text-2xl text-gray-300 mb-8 relative transform hover:translate-z-4 transition-transform">
               <span className="relative inline-block after:content-[''] after:absolute after:w-full after:scale-x-0 after:h-0.5 after:bottom-0 after:left-0 after:bg-primary after:origin-bottom-right after:transition-transform hover:after:scale-x-100 hover:after:origin-bottom-left after:duration-300">
-                Transform your creative vision into reality
+                Develop the future and be the future
               </span>
               <br />
-              <span className="text-lg text-gray-400">with AI-powered design tools</span>
+              <span className="text-lg text-gray-400">DM today for queries</span>
             </p>
           </div>
 
           {/* Enhanced 3D Button */}
           <button className="relative px-8 py-3 bg-gradient-to-r from-primary to-secondary rounded-full text-white font-semibold transition-all duration-300 transform hover:scale-105 hover:translate-z-4 hover:shadow-lg hover:shadow-primary/25 active:scale-95 pointer-events-auto group">
             <span className="absolute inset-0 w-full h-full bg-gradient-to-r from-primary to-secondary rounded-full blur opacity-75 group-hover:opacity-100 transition-opacity"></span>
-            <span className="relative">Get Started Free</span>
+            <span className="relative">Contact Me</span>
           </button>
         </div>
       </section>
